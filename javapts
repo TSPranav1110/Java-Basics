@@ -1,0 +1,43 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static void main(String[] args) {
+        int A = 26;
+        int B = 17;
+        System.out.println(A+B);
+        System.out.println(A-B);
+        System.out.println(A*B);
+        System.out.println(A/B);
+        System.out.println(A%B);
+        System.out.println(A==B);
+        System.out.println(A!=B);
+        System.out.println(A>B);
+        System.out.println(A<B);
+        System.out.println(A>=B);
+        System.out.println(A<=B);
+        System.out.println(true&&true);
+        System.out.println(true&&false);
+        System.out.println(false&&true);
+        System.out.println(false&&false);
+        System.out.println(true||true);
+        System.out.println(true||false);
+        System.out.println(false||true);
+        System.out.println(false||false);
+        System.out.println(!true);
+        System.out.println(!false);
+        System.out.println(A+35);
+        System.out.println(B+85);
+        System.out.println(B-13);
+        System.out.println(A*68);
+        System.out.println(A/35);
+        System.out.println(B%13);
+        System.out.println(+A);
+        System.out.println(++A);
+        System.out.println(A++);
+        System.out.println(--B);
+        System.out.println(A>>B);
+        System.out.println(B<<A);
+        System.out.println();
+    }
+}
